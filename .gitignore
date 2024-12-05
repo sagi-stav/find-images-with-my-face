@@ -1,0 +1,15 @@
+# Ignoring virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Ignoring system files
+.DS_Store
+Thumbs.db
+
+# Ignoring Python environment files
+.env/
+#ignore directorys
+.my_faces
+.reception
+.testing
