@@ -1,3 +1,4 @@
+# Find Images with My Face
 ## Project Description
 
 The **"Find Images with My Face"** project is a computer vision application that detects and saves images from a given album that contain a specific face (e.g., your own face). Using the **face_recognition** library, the project compares face encodings between a reference image and images in the album. If a match is found, the image is copied to a specified output folder.
@@ -15,7 +16,7 @@ This project utilizes several powerful Python libraries including **OpenCV**, **
 - Organize and collect images with specific people (e.g., finding pictures of you from a photo album).
 - Face detection for any personalized computer vision task.
 - Easy setup and integration for future applications involving face recognition.
-# Find Images with My Face
+
 
 This project detects and saves images from an album that contain a specific face (e.g., your face) by comparing face encodings.
 
