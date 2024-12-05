@@ -1,0 +1,20 @@
+# Ignore Python virtual environment
+.venv/
+.env/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore project-specific directories
+.my_faces/
+.reception/
+.testing/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
