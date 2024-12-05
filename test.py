@@ -51,7 +51,7 @@ def find_and_save_specific_face(album_path, output_folder, reference_image_paths
 # Set paths
 album_path = r"C:\Users\97255\PycharmProjects\find_images_with_my_face\reception"
 output_folder = r"C:\Users\97255\PycharmProjects\find_images_with_my_face\my_faces"
-reference_image_paths = ["test.jpg"]
+reference_image_paths = ["test.jpggit "]
 
 # Run the function
 find_and_save_specific_face(album_path, output_folder, reference_image_paths)
